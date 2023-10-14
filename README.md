@@ -9,5 +9,6 @@ First and EC2 instance running Redhat OS was provisioned
 The Availablity Zone was taken note of, as it was used to creat EBS volunes to be attached to the instance. 
 Three volumes in s similar AZ as the instance were created
 
-![Volumes created ](https://github.com/oghare01/Implementing-Wordpress-Website/assets/141191975/3716fc96-d780-4cad-97df-8a6ff7edf71a)
+![Created volumes](https://github.com/oghare01/Implementing-Wordpress-Website/assets/141191975/ae778566-4dae-4856-b455-4f746f157b2f)
+
 
